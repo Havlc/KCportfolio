@@ -125,6 +125,7 @@ i.fas.fa-at {
 .card-body {
 	padding: 15% 10%;
 	line-height: 2.5em;
+	max-height: 20%; 
 }
 
 main {
